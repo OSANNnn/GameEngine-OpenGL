@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Vbox-guests\Shared\C++\OpenGL\OpenGL_PDF\glfw-3.4\build\CMakeFiles\91dc2f2cf9d6ecfed82ad55b780748d3\update_mappings.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Vbox-guests\Shared\C++\OpenGL\OpenGL_PDF\glfw-3.4\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Vbox-guests\Shared\C++\OpenGL\OpenGL_PDF\glfw-3.4\src\mappings.h.in">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\Vbox-guests\Shared\C++\OpenGL\OpenGL_PDF\glfw-3.4\CMake\GenerateMappings.cmake" />
+    <None Include="C:\Vbox-guests\Shared\C++\OpenGL\OpenGL_PDF\glfw-3.4\build\src\CMakeFiles\update_mappings" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{FD0FC96D-AFB3-362F-AF6E-08940808BBFF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{B7F2DB0B-5D70-34FF-8901-325F970EFA09}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
