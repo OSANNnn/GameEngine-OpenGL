@@ -26,13 +26,18 @@ Il progetto è in fase di sviluppo, con sfide come la complessità del tema, il 
 
 ## Installazione
 
+Aprire la solution attraverso il file `Capolavoro.sln` in Visual Studio fare build & run. 
+
+In alternativa:  
+  
 1. Clonare la repository: `git clone https://github.com/OSANNnn/GameEngine-OpenGL.git`
 2. Navigare nella directory clonata: `cd GameEngine-OpenGL`
 3. Creare una directory build: `mkdir build && cd build`
 4. Generare i file di configurazione: `cmake ..`
 5. Compilare il progetto: `make`
 6. Copiare i file `default.vert`, `default.frag`, `container.jpg` dalla cartella `/FirstGL` nella cartella `/build`
-7. Eseguire il programma principale: `./GameEngine`
+7. Eseguire il programma principale: `./GameEngine`  
+
 
 ## Utilizzo
 
