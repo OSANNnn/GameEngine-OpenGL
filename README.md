@@ -32,6 +32,12 @@ Il progetto è in fase di sviluppo, con sfide come la complessità del tema, il 
 5. Compilare il progetto: `make`
 6. Eseguire il programma principale: `./GameEngine`
 
+## Utilizzo
+
+ESC - Chiude la finestra
+W, A, S, D, E, Q - Traslazione della telecamera
+Mouse Scroll - Zoom
+Mouse - Rotazione della telecamera
 
 ## Licenza
 
