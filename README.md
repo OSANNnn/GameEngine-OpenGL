@@ -39,7 +39,7 @@ In alternativa:
 7. Eseguire il programma principale: `./GameEngine`  
 
 
-## Utilizzo
+## Comandi
 
 ESC - Chiude la finestra.  
 W, A, S, D, E, Q - Translazione della telecamera.  
