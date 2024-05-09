@@ -22,6 +22,7 @@ Il progetto è in fase di sviluppo, con sfide come la complessità del tema, il 
 
 - OpenGL 3.3 o versione successiva.
 - CMake per la compilazione del codice.
+- Visual Studio 2022 per la gestione del progetto.
 
 ## Installazione
 
