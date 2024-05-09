@@ -140,7 +140,6 @@ int main()
 	
 
 	Shader program("default.vert", "default.frag");
-	Shader lightShader("light.vert", "light.frag");
 	program.Use();
 	program.SetInt("texture1", 0);
 	woodenBox.Activate(0);
